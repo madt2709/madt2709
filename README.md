@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @madt2709
 - 📫 Reach me by email theo.roman.dias@gmail.com
-- I'm interested in python development, maths and machine learning!
 
 
 <!---
