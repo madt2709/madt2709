@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @madt2709
-- 📫 Reach me by email theo.roman.dias@gmail.com
 
 
 <!---
